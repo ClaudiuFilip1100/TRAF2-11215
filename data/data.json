@@ -1,0 +1,94 @@
+{
+    "content": "FOB FOSHAN PORT, CHINA QTY: 1400 SQM LATEX FOAM AT USD 7.00 PER SQM AS PER BENEFICIARY'S PROFORMA INVOICE NO. VT191224 DATED 25.12.19",
+    "seen_by": [
+      {
+        "annotator": "marc.smith@conpend.com",
+        "annotator_id": 1
+      }
+    ],
+    "metadata": {
+      
+    },
+    "example_id": "f307b796-b008-43e2-ac3a-1b24478a2aa5",
+    "annotations": [
+      {
+        "end": 22,
+        "tag": "Incoterms",
+        "start": 0,
+        "value": "FOB FOSHAN PORT, CHINA",
+        "tag_id": "b911a0c6-932f-4633-9952-a9566ef4ef4a",
+        "correct": null,
+        "reviewed": false,
+        "example_id": "f307b796-b008-43e2-ac3a-1b24478a2aa5",
+        "annotated_by": [
+          {
+            "annotator": "marc.smith@conpend.com",
+            "timestamp": "2022-07-04T11:16:08.683+00:00",
+            "annotator_id": 1
+          }
+        ],
+        "definition_id": "f37ed89b-352b-4d92-9538-d182b17d84f7",
+        "tagged_token_id": "a34943da-2305-45a6-bf56-e2a055e72f50"
+      },
+      {
+        "end": 67,
+        "tag": "Quantity",
+        "start": 51,
+        "value": "USD 7.00 PER SQM",
+        "tag_id": "3716cbbf-cc10-4b97-9748-87b8fe1755ed",
+        "correct": null,
+        "reviewed": false,
+        "example_id": "f307b796-b008-43e2-ac3a-1b24478a2aa5",
+        "annotated_by": [
+          {
+            "annotator": "marc.smith@conpend.com",
+            "timestamp": "2022-07-04T11:16:23.882+00:00",
+            "annotator_id": 1
+          }
+        ],
+        "definition_id": "f37ed89b-352b-4d92-9538-d182b17d84f7",
+        "tagged_token_id": "a18ace2d-c9b4-4712-989c-ccf7568354e8"
+      },
+      {
+        "end": 47,
+        "tag": "GoodsDescription",
+        "start": 37,
+        "value": "LATEX FOAM",
+        "tag_id": "a3441a98-0cdf-4191-8235-513125aacf6f",
+        "correct": null,
+        "reviewed": false,
+        "example_id": "f307b796-b008-43e2-ac3a-1b24478a2aa5",
+        "annotated_by": [
+          {
+            "annotator": "marc.smith@conpend.com",
+            "timestamp": "2022-07-04T11:16:19.616+00:00",
+            "annotator_id": 1
+          }
+        ],
+        "definition_id": "f37ed89b-352b-4d92-9538-d182b17d84f7",
+        "tagged_token_id": "aafe93e5-4f0b-4135-b6ac-9395fb7b4cbb"
+      },
+      {
+        "end": 36,
+        "tag": "Quantity",
+        "start": 28,
+        "value": "1400 SQM",
+        "tag_id": "3716cbbf-cc10-4b97-9748-87b8fe1755ed",
+        "correct": null,
+        "reviewed": false,
+        "example_id": "f307b796-b008-43e2-ac3a-1b24478a2aa5",
+        "annotated_by": [
+          {
+            "annotator": "marc.smith@conpend.com",
+            "timestamp": "2022-07-04T11:16:13.69+00:00",
+            "annotator_id": 1
+          }
+        ],
+        "definition_id": "f37ed89b-352b-4d92-9538-d182b17d84f7",
+        "tagged_token_id": "284ec878-90ef-4de4-a9e1-107afbadf200"
+      }
+    ],
+    "classifications": [
+      
+    ]
+  }  
