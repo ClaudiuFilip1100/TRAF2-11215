@@ -1,0 +1,29 @@
+:MT:799
+:IO:MCRBRUMMXXX
+:II:COBADEFFDOC
+:MP:N
+:EOH:
+:20:TCBLE304013800
+:21:MCB/LC180420/013
+:79:ATTN:TRADE DEPT
+.
+REFER TO YOUR MT700 DATED 20/04/2018,
+Due to our latest compliance requirements, we 
+require information from your good bank regarding 
+the transaction before we can proceed as below:
+.
+(a) Brief background information of beneficiary 
+and nature of business activities.
+.
+(b) Please confirm that the goods are not of 
+Iranian origin nor have they been transhipped or 
+transhipped to/from/through Iran.
+.
+MEANWHILE, WE HOLD YOUR L/C UNADVISED WITHOUT ANY 
+RISK AND RESPONSIBILITY ON OUR PART, AWAITING 
+YOUR INSTRUCTIONS AS PER ABOVE.
+.
+REGARDS 
+COMMERZBANK AG
+TRADE SERVICES
+-
