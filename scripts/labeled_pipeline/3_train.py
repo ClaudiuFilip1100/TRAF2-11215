@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("../../data/dataset_v2.csv")
+df = pd.read_csv("../../data/improved_dataset_v2.csv")
 df.head()
 
 words = list(set(df["words"].values))
@@ -143,12 +143,12 @@ model.compile(
 history = model.fit(
     X,
     np.array(y),
-    batch_size=64,
+    batch_size=128,
     epochs=20,
     validation_split=0.2,
     verbose=1,
 )
 
-model.save("../../models/tensorflow/NER_model_updated_v2.h5")
+model.save("../../models/tensorflow/NER_model_updated_v3.h5")
 hist = pd.DataFrame(history.history)
 hist.to_csv('../../data/model_history.csv')
